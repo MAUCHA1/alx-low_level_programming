@@ -1,0 +1,1 @@
+vi 0x07-pointers_arrays_strings0x07-pointers_arrays_stringsndfkfg
